@@ -15,25 +15,25 @@ const categorydata = [
     },
     {
         id: 2,
-        name: 'Exercise',
+        name: 'Research',
         period: '12 Tasks',
         image: Study
     },
     {
         id: 3,
-        name: 'Exercise',
+        name: 'Learning',
         period: '12 Tasks',
         image: Exercise
     },
     {
         id: 4,
-        name: 'Exercise',
+        name: 'coding',
         period: '12 Tasks',
         image: Study
     },
     {
         id: 5,
-        name: 'Exercise',
+        name: 'reviewing',
         period: '12 Tasks',
         image: Exercise
     },
@@ -74,15 +74,15 @@ const ongoing = [
     },
     {
         id: '3',
-        title: 'Web Development',
+        title: 'Software Development',
     },
     {
         id: '4',
-        title: 'Mobile Development'
+        title: 'Software Engineering'
     },
     {
         id: '5',
-        title: 'Web Development',
+        title: 'Data Analyzing',
     },
     {
         id: '6',

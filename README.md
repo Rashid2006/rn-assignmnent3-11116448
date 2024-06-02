@@ -14,6 +14,10 @@ Here is a brief description of each component's usage:
 
 - FlatList: Efficiently renders lists of tasks, handling optimization and scrolling.
 
-- Image: Displays icons and images, such as category icons and task images.
+image: Displays icons and images, such as category icons and task images.
 
 These components work together to create a functional and visually appealing task management app.
+
+![IMG_5212](https://github.com/Rashid2006/rn-assignmnent3-11116448/assets/151881974/48a2d7d2-6ab3-4794-85ed-89d2ee2e688f)
+
+
